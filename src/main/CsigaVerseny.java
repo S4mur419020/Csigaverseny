@@ -35,7 +35,7 @@ public class CsigaVerseny {
         int legtav=0;
         int nyertesi=0;
         int[] AktPozTomb=new int[csigak.length];
-        System.out.println("Melyik csiga fog nyerni szerinted?:");
+        System.out.println("Melyik csiga fog nyerni szerinted?: kék, piros vagy zöld");
         String tipp=SC.nextLine();
         System.out.print("Majd kiderül");
         
